@@ -1,0 +1,11 @@
+{
+    "expectedText": "Sign up",
+    "userType": 1,
+    "firstName": "Victoria",
+    "lastName": "Matthews",
+    "alreadyRegisteredEmail": "olayidecodes@gmail.com",
+    "password": "Password@987",
+    "email": "tey@mailinator.com",
+    "invalidEmail": "testabc@gmail",
+    "codes": 123456
+}
